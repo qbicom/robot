@@ -3,7 +3,7 @@ asn1crypto==0.24.0
 bcrypt==3.1.4
 betfairlightweight==1.5.13
 bleach==2.1.2
-certifi==2018.8.24
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 ciso8601==1.0.7
